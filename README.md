@@ -3,12 +3,12 @@ A collaborative Node.js lab for 5 team members
 
 ## Team Roster
 
-* Maintainer: [Type Name of Student 1]
+* Maintainer: Kurt Justin Aquino
 
-* QA Lead: [Type Name of Student 2]
+* QA Lead: Lance Steven Bailon
 
-* Developer: [Type Name of Student 3]
+* Developer: Nicole Anne Gatus
 
-* Contributor: [Type Name of Student 4]
+* Contributor: Lance Steven Bailon
 
-* DevOps: [Type Name of Student 5]
+* DevOps: Jim Ellen Faith Sy
